@@ -43,3 +43,6 @@ Unless I am asked by owners of Blacket, these will stay up and maintained.<br>
 
 ### Why are these now obfuscated?
 I saw many people stealing the code I spent time on.
+
+### My school blocked inspect, what do I do?
+Put the code in [here](https://caiorss.github.io/bookmarklet-maker/), it works great for school devices!
