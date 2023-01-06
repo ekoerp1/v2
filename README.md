@@ -1,4 +1,45 @@
-## BlacketWare is being obfuscated.
-I've seen users stealing my code.<br>
-This angers me greatly, so I am working on obfuscating all the files.<br>
-This will not impact your experience at all; all working Blooket hacks are obfuscated.
+# Blacket Hacks
+### [Support Server](https://discord.gg/BJCms66bcu)
+
+**Working Blacket cheats, made by Death.**<br>
+~~if you enjoy these cheats, consider dming Xotic#0001 saying I should be mod~~<br>
+<br>
+Now obfuscated because of skids.
+
+## Todo
+
+- [ ] Spoof Admin?
+- [ ] Spoof Custom Blook
+
+## List of Cheats
+
+### [Blooks](blooks/)
+ * [Sell All Blooks](blooks/sellAllBlooks.js)<br>
+ * [Sell Dupe Blooks](blooks/sellDupeBlooks.js)<br>
+ * [Spoof All Blooks](blooks/spoofAllBlooks.js)<br>
+ * [View Player Blooks](blooks/viewPlayerBlooks.js)<br>
+
+### [Chat/Trade](chat-trade/)
+ * [Download Chat](chat-trade/downloadChat.js)<br>
+
+### [Global](global/)
+ * [Score Player](global/scorePlayer.js)<br>
+
+### [Market](market/)
+ * [Detailed Open](market/detailedOpen.js)<br>
+ * [Quick Open](market/quickOpen.js)<br>
+ * [Simulate Unlock](market/simulateUnlock.js)<br>
+ 
+## FAQ
+
+### Can I use this on a mobile device or an iPad?
+I would generally recommend a computer. You can probably use mobile devices (google it LOL).<br>
+
+### Will these ban you?
+At time of writing, there is no automatic ban system.<br>
+
+### Will these be taken down?
+Unless I am asked by owners of Blacket, these will stay up and maintained.<br>
+
+### Why are these now obfuscated?
+I saw many people stealing the code I spent time on.
