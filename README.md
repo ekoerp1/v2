@@ -1,9 +1,9 @@
+# demoted to tester in blacket for no reason by acai
+### consider rebelling :)
 # Blacket Hacks
 ### [Support Server](https://discord.gg/BJCms66bcu)
 
 **Working Blacket cheats, made by Death.**<br>
-~~if you enjoy these cheats, consider dming Xotic#0001 saying I should be mod~~<br>
-<br>
 Now obfuscated because of skids.
 
 ## Todo
