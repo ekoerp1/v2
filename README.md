@@ -1,3 +1,4 @@
+# acai is cool
 # Blacket Hacks
 ### [Support Server](https://discord.gg/BJCms66bcu)
 
