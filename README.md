@@ -1,5 +1,9 @@
 # demoted to tester in blacket for no reason by acai
 ### consider rebelling :)
+
+#### more info on death's idiocracy: https://github.com/intertransfer/god/blob/main/README.md
+that's the reason he wants you to rebel. has been removed from the blacketware organization.
+
 # Blacket Hacks
 ### [Support Server](https://discord.gg/BJCms66bcu)
 
