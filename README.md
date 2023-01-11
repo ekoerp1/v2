@@ -1,5 +1,4 @@
-# acai is cool
-# Blacket Hacks
+# The Blacket Hacks
 ### [Support Server](https://discord.gg/BJCms66bcu)
 
 **Working Blacket cheats, made by Death.**<br>
@@ -7,15 +6,18 @@ Now obfuscated because of skids.
 
 ## Todo
 
-- [ ] Spoof Admin?
-- [ ] Spoof Custom Blook
+- [ ] Spoof Admin
+- [x] Spoof Custom Blook
 
 ## List of Cheats
 
 ### [Blooks](blooks/)
+ * [Check Dupes](blooks/checkDupes.js)<br>
  * [Sell All Blooks](blooks/sellAllBlooks.js)<br>
+ * [Sell Cheap Dupes](blooks/sellCheapDupes.js)<br>
  * [Sell Dupe Blooks](blooks/sellDupeBlooks.js)<br>
  * [Spoof All Blooks](blooks/spoofAllBlooks.js)<br>
+ * [Spoof Custom Blook](blooks/spoofCustomBlook.js)<br>
  * [View Player Blooks](blooks/viewPlayerBlooks.js)<br>
 
 ### [Chat/Trade](chat-trade/)
@@ -44,4 +46,5 @@ Unless I am asked by owners of Blacket, these will stay up and maintained.<br>
 I saw many people stealing the code I spent time on.
 
 ### My school blocked inspect, what do I do?
-Put the code in [here](https://caiorss.github.io/bookmarklet-maker/), it works great for school devices!
+Put the code in [here](https://caiorss.github.io/bookmarklet-maker/), it works great for school devices!<br>
+Now that these cheats are obfuscated, this is much easier.
